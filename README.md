@@ -11,15 +11,15 @@ Aplicación de consola en Java para gestionar una lista de tareas pendientes.
 
 ## Tecnologías
 
-- Java 17
+- Java 25
 - Maven
 - Entrada de datos por consola con `Scanner`
 
 ## Cómo ejecutarlo
 
-1. Abrir el proyecto en IntelliJ IDEA (se detectará automáticamente como proyecto Maven).
+1. Abrir el proyecto en IntelliJ IDEA.
 2. Localizar la clase `Main` en `src/main/java/com/curso/todo/Main.java`.
-3. Ejecutarla con el botón ▶ (Run) o pulsando `Shift + F10`.
+3. Ejecutarla con el botón Run o pulsando `Shift + F10`.
 4. Usar el menú numérico que aparece en la consola para interactuar con el programa.
 
 ## Estructura del proyecto
